@@ -6,4 +6,4 @@ setup(name='BookPackages',
       url='https://github.com/jasminemalik/bookpackage/new/main',
       author='Jasmine Malik',
       license='MIT',
-      packages=find_packages())
+      packages=find.packages())
